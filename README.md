@@ -18,6 +18,8 @@ The following models will be used for this project:
 
 We will use the **Flight Take-Off data** from JFK Airport available on Kaggle. This dataset was scraped from an Academic Paper under Review by IEEE Transportation. Additionally, we will need **aircraft registration data** from the FAA to include additional features like the model of the aircraft, weight, and seat count, which are not present in the Kaggle dataset.
 
+https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport
+
 ### Datasets:
 - **Flight Take-off data** from JFK Airport
 - **FAA Aircraft Registration dataset** to get aircraft details

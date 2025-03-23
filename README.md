@@ -1,5 +1,5 @@
 # Flight Delay Classification Model
-
+ 
 ## Project Overview
 
 We chose to build an application in the transportation industry, specifically focusing on predicting flight delays. The goal of this project is to develop a flight delay prediction model using machine learning algorithms, utilizing the **Flight Take-off dataset** from JFK Airport and the **FAA Aircraft Registration dataset**. 

@@ -52,3 +52,8 @@ Model performance will be compared using the following metrics:
 
 - **MSE**
 - **MAE**
+
+## References
+
+Ball, M., Barnhart, C., Dresner, M., Hansen, M., Neels, K., Odoni, A. R., Peterson, E., Sherry, L., Trani, A., & Zou, B. (2010, October 1). Total delay impact study : A comprehensive assessment of the costs and impacts of flight delay in the United States. National Transportation Library. https://rosap.ntl.bts.gov/view/dot/6234
+

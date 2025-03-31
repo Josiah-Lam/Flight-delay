@@ -27,7 +27,7 @@ The following models will be used for this project:
 
 ## Data Collection
 
-We will use the **Flight Take-Off data** from JFK Airport available on Kaggle. This dataset was taken from an Academic Paper under Review by IEEE Transportation.
+We will use the **Flight Take-Off data** from JFK Airport available on Kaggle.
 
 https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport
 

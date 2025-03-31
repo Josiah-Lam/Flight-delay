@@ -52,8 +52,8 @@ The target variable will be **DEP_DELAY** (Departure delay of the flight).
 
 Model performance will be compared using the following metrics:
 
-- **MSE**
-- **MAE**
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
 
 ## References
 

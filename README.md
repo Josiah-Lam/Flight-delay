@@ -1,4 +1,6 @@
 # Flight Delay Predictions
+
+By: Victor Cheung, Cole Hynes, Yash Jagirdar, Josiah Lam, Rohan Nair, Colin Pierce
  
 ## Project Overview
 
@@ -29,7 +31,7 @@ We will use the **Flight Take-Off data** from JFK Airport available on Kaggle. T
 
 https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport
 
-## Features Included in Dataset
+## Dataset Features
 
 | Feature              | Description                   | Feature            | Description                |
 |----------------------|-------------------------------|--------------------|----------------------------|
@@ -56,4 +58,6 @@ Model performance will be compared using the following metrics:
 ## References
 
 Ball, M., Barnhart, C., Dresner, M., Hansen, M., Neels, K., Odoni, A. R., Peterson, E., Sherry, L., Trani, A., & Zou, B. (2010, October 1). Total delay impact study : A comprehensive assessment of the costs and impacts of flight delay in the United States. National Transportation Library. https://rosap.ntl.bts.gov/view/dot/6234
+
+Kansal, D. (2021, June 11). Flight take off data - JFK airport. Kaggle. https://www.kaggle.com/datasets/deepankurk/flight-take-off-data-jfk-airport/data
 
